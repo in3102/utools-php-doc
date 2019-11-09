@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "pluginName": "PHP 文档",
+    "description": "PHP 文档速查",
+    "author": "uTools官方",
+    "homepage": "https://u.tools",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "php",
+            "explain": "PHP 文档速查",
+            "cmds": ["PHP"]
+         }
+    ]
+}
